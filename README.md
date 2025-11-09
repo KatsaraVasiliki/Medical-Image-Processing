@@ -36,5 +36,5 @@ This collection of scripts covers fundamental topics in **Image Processing**, in
 These exercises form a foundation for more advanced applications in  **computer vision**, and **image analysis**.
 
 
-*[Your University Name]*
+*[University of West Attica, Department of Biomedical Engineering, Medical Image Processing Course]*
 
