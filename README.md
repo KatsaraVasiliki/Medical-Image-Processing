@@ -35,11 +35,6 @@ This collection of scripts covers fundamental topics in **Image Processing**, in
 
 These exercises form a foundation for more advanced applications in  **computer vision**, and **image analysis**.
 
----
 
-## 👩‍💻 Author
-
-**Vikir**  
-Bachelor’s in *[Your Program Name]*  
 *[Your University Name]*
 
