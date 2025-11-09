@@ -15,11 +15,7 @@ Each script corresponds to a class exercise demonstrating key image processing c
 | **Class 5** | `frequency_domain_filtering.py` | Frequency Domain Restoration & Filtering | Applies Butterworth, Gaussian, and Exponential filters in the frequency domain, and performs image restoration using inverse, Wiener, and Richardson–Lucy deconvolution. |
 | **Class 6** | `tomographic_reconstruction.py` | Tomographic Reconstruction | Implements Radon transform to generate sinograms, reconstructs images using Filtered Back Projection (FBP) and Algebraic Reconstruction Technique (ART), and evaluates reconstruction quality using structural error analysis. |
 
----
 
-## Requirements
-
-Before running the scripts, make sure you have the following Python packages installed:
 
 ---
 ## Learning Objectives
@@ -35,6 +31,9 @@ This collection of scripts covers fundamental topics in **Image Processing**, in
 
 These exercises form a foundation for more advanced applications in  **computer vision**, and **image analysis**.
 
+---
+**Medical Image Processing Course, Prof. Dionisis Cavouras**
 
-*[University of West Attica, Department of Biomedical Engineering, Medical Image Processing Course]*
+*[University of West Attica, Department of Biomedical Engineering]*
+
 
